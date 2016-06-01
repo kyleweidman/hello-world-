@@ -1,3 +1,6 @@
 # hello-world-
 The future of hydration 
-My name is Kyle and I like to design tools that keep the masses hydrated. 
+
+The chugski is a device that allows 3 individulas at the same time, become more hydrated than they've ever been. 
+
+The top athletes in the world live by it. 
